@@ -8,7 +8,7 @@ Basics of code
 
 ## Live link
 
-### https://kennedy-ben/jquery.github.io
+ https://kennedy-ben/jquery.github.io
 
  ### Copyright (2021) KENBEN
  
